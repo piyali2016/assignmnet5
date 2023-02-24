@@ -1,0 +1,76 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Spaghetti Carbonara",
+      "image_url": "http://localhost:3000/spageti.jpg",
+      "description": "This classic Italian dish features spaghetti tossed with bacon, eggs, and Parmesan cheese for a creamy, savory pasta dish that is sure to impress.",
+      "ingredients": [
+        "1 pound spaghetti",
+        "8 slices bacon, diced",
+        "4 cloves garlic, minced",
+        "2 large eggs",
+        "1 cup grated Parmesan cheese",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Cook spaghetti according to package directions.",
+        "While the spaghetti is cooking, cook the bacon in a large skillet over medium heat until crisp. Remove with a slotted spoon and drain on paper towels.",
+        "Add the garlic to the bacon fat and cook for 1-2 minutes, until fragrant.",
+        "In a small bowl, beat the eggs and Parmesan cheese together.",
+        "When the spaghetti is done, drain it and add it to the skillet with the garlic and bacon fat. Toss to coat the spaghetti with the fat.",
+        "Remove the skillet from the heat and quickly add the egg and cheese mixture to the spaghetti, tossing to coat the pasta evenly. The heat from the spaghetti will cook the eggs and create a creamy sauce.",
+        "Season with salt and pepper to taste.",
+        "Serve immediately, garnished with extra Parmesan cheese and black pepper."
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Roast Chicken",
+      "image_url": "http://localhost:3000/roast.jpg",
+      "description": "This simple but delicious recipe for roast chicken results in a perfectly crispy and juicy bird every time. Serve it with your favorite sides for a classic meal that never gets old.",
+      "ingredients": [
+        "1 whole chicken, about 4 pounds",
+        "1/4 cup butter, softened",
+        "2 cloves garlic, minced",
+        "1 tablespoon chopped fresh rosemary",
+        "1 tablespoon chopped fresh thyme",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 425°F.",
+        "Rinse the chicken inside and out with cold water and pat dry with paper towels.",
+        "In a small bowl, mix together the butter, garlic, rosemary, thyme, salt, and pepper.",
+        "Rub the butter mixture all over the chicken, including under the skin and in the cavity.",
+        "Tie the legs together with kitchen twine and tuck the wings under the body of the chicken.",
+        "Place the chicken in a roasting pan and roast for 1 hour and 15 minutes, or until the internal temperature reaches 165°F.",
+        "Remove the chicken from the oven and let it rest for 10 minutes before carving.",
+        "Serve with your favorite sides, such as mashed potatoes and green beans."
+      ]
+    }, {
+      "id": "3",
+      "name": "Spaghetti Carbonara",
+      "image_url": "http://localhost:3000/spageti.jpg",
+      "description": "This classic Italian dish features spaghetti tossed with bacon, eggs, and Parmesan cheese for a creamy, savory pasta dish that is sure to impress.",
+      "ingredients": [
+        "1 pound spaghetti",
+        "8 slices bacon, diced",
+        "4 cloves garlic, minced",
+        "2 large eggs",
+        "1 cup grated Parmesan cheese",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Cook spaghetti according to package directions.",
+        "While the spaghetti is cooking, cook the bacon in a large skillet over medium heat until crisp. Remove with a slotted spoon and drain on paper towels.",
+        "Add the garlic to the bacon fat and cook for 1-2 minutes, until fragrant.",
+        "In a small bowl, beat the eggs and Parmesan cheese together.",
+        "When the spaghetti is done, drain it and add it to the skillet with the garlic and bacon fat. Toss to coat the spaghetti with the fat.",
+        "Remove the skillet from the heat and quickly add the egg and cheese mixture to the spaghetti, tossing to coat the pasta evenly. The heat from the spaghetti will cook the eggs and create a creamy sauce.",
+        "Season with salt and pepper to taste.",
+        "Serve immediately, garnished with extra Parmesan cheese and black pepper."
+      ]
+    }
+  ]
+}
+
